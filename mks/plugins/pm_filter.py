@@ -1851,20 +1851,20 @@ async def pmauto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"""<b>👋 𝖧𝖾𝗒 {message.from_user.mention} 👋
+        cap = f"""👋 𝖧𝖾𝗒 {message.from_user.mention} 👋
 
-🤩မိတ်ဆွေရဲ့ရုပ်ရှင်ကို အောက်မှာရှာတွေ့ထားပါတယ်နော်။
+<b>🤩မိတ်ဆွေရဲ့ရုပ်ရှင်ကို အောက်မှာရှာတွေ့ထားပါတယ်နော်။
 
 <b>💟မင်္ဂလာပါ💟
-Eng Series ပေါင်း 440+ ကျော်ကို တစ်ဝကြီးကြည့်ချင်တယ်ဆိုရင်တော့ အခုပဲ မင်မင်တိုရဲ့ YN VIP Channel ကို သတိရလိုက်တော့နော်။ 
+Eng Series ပေါင်း 440+ ကျော်ကို တစ်ဝကြီးကြည့်ချင်တယ်ဆိုရင်တော့ အခုပဲ      မင်မင်တိုရဲ့ YN VIP Channel ကို သတိရလိုက်တော့နော်။ 
 
 လူကြီးတွေအတွက်လည်း ချန်နယ် ၅ခုပါတဲ့ 🔞18+ VIP လေး ရှိပါသေးတယ်။
 
 Member ကြေးကလည်း VIP တခုစီကိုမှ Lifetime တစ်သက်တာကို 3000 Kyats ပဲကျသင့်မှာဖြစ်ပါတယ်ဗျ။ရှယ်တန်တဲ့ ရှယ်ပလန်လေးဖြစ်တာကြောင့် ခုပဲမန်ဘာဝင်လိုက်တော့နော်။
 
-မန်ဘာဝင်ရန် - 👉 @YNVIPMEMBERBOT
+မန်ဘာဝင်ရန် 👉 @YNVIPMEMBERBOT
 
-Admin Account - 👉 @YoeNaung</b>
+Admin Account 👉 @YoeNaung</b>
 
 <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>"""
     if imdb and imdb.get('poster'):
@@ -2124,20 +2124,20 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"""<b>👋 𝖧𝖾𝗒 {message.from_user.mention} 👋
+        cap = f"""👋 𝖧𝖾𝗒 {message.from_user.mention} 👋
 
-🤩မိတ်ဆွေရဲ့ရုပ်ရှင်ကို အောက်မှာရှာတွေ့ထားပါတယ်နော်။
+<b>🤩မိတ်ဆွေရဲ့ရုပ်ရှင်ကို အောက်မှာရှာတွေ့ထားပါတယ်နော်။
 
 <b>💟မင်္ဂလာပါ💟
-Eng Series ပေါင်း 440+ ကျော်ကို တစ်ဝကြီးကြည့်ချင်တယ်ဆိုရင်တော့ အခုပဲ မင်မင်တိုရဲ့ YN VIP Channel ကို သတိရလိုက်တော့နော်။ 
+Eng Series ပေါင်း 440+ ကျော်ကို တစ်ဝကြီးကြည့်ချင်တယ်ဆိုရင်တော့ အခုပဲ      မင်မင်တိုရဲ့ YN VIP Channel ကို သတိရလိုက်တော့နော်။ 
 
 လူကြီးတွေအတွက်လည်း ချန်နယ် ၅ခုပါတဲ့ 🔞18+ VIP လေး ရှိပါသေးတယ်။
 
 Member ကြေးကလည်း VIP တခုစီကိုမှ Lifetime တစ်သက်တာကို 3000 Kyats ပဲကျသင့်မှာဖြစ်ပါတယ်ဗျ။ရှယ်တန်တဲ့ ရှယ်ပလန်လေးဖြစ်တာကြောင့် ခုပဲမန်ဘာဝင်လိုက်တော့နော်။
 
-မန်ဘာဝင်ရန် - 👉 @YNVIPMEMBERBOT
+မန်ဘာဝင်ရန် 👉 @YNVIPMEMBERBOT
 
-Admin Account - 👉 @YoeNaung</b>
+Admin Account 👉 @YoeNaung</b>
 
 <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>"""
     if imdb and imdb.get('poster'):
