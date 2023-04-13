@@ -26,7 +26,7 @@ class Config:
 
 
     PICS = (environ.get('PICS', 'https://graph.org/file/26b49f7376b1ae3d0223d.jpg')).split()    
-    ADS = (environ.get("NOR_IMG", "https://telegra.ph/file/d0d5f33ac723ea3ed39a0.jpg https://telegra.ph/file/b5417b6658fb571795e61.jpg")).split()
+    ADS = (environ.get("NOR_IMG", "https://telegra.ph/file/19cc706d074b8b60c57a8.jpg https://telegra.ph/file/0c158fb5cb0cc53e4aaa4.jpg")).split()
     NOR_IMG = ADS 
     MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/9e8955496d249439791f8.mp4")
     SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/26b49f7376b1ae3d0223d.jpg")
