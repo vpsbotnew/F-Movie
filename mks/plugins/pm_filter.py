@@ -1862,11 +1862,11 @@ XDA77 အွန်လိုင်းဂိမ်း မှာဆို ဘော
 
 ✅နေ့စဉ်နဲ့ အပတ်စဥ် ရှုံးကြေးပြန်ပေးတဲ့ အစီအစဥ်တွေ ရှိတဲ့အပြင် တန်မှတန် Promotion တွေလည်းရှိသေးတယ်နော်။
 
-📥🛅Telegram Link
-https://t.me/XDA77Myanmar
-📲𝐕𝐢𝐛𝐞𝐫 Link
-https://jdb.link/xdaVB01
-☎️V𝐢𝐛𝐞𝐫 - 𝟎𝟗𝟕 𝟗𝟎𝟗𝟎 𝟑𝟎𝟕𝟕</b>
+📥အကောင့်ဖွင့်ရန်လင့်
+ https://cutt.ly/75gAJAT
+🛅Telegram Link
+https://cutt.ly/35gA5ZN
+☎️V𝐢𝐛𝐞𝐫  - 𝟎𝟗𝟕 𝟗𝟎𝟗𝟎 𝟑𝟎𝟕𝟕</b>
 
 <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>"""
     if imdb and imdb.get('poster'):
@@ -2137,11 +2137,11 @@ XDA77 အွန်လိုင်းဂိမ်း မှာဆို ဘော
 
 ✅နေ့စဉ်နဲ့ အပတ်စဥ် ရှုံးကြေးပြန်ပေးတဲ့ အစီအစဥ်တွေ ရှိတဲ့အပြင် တန်မှတန် Promotion တွေလည်းရှိသေးတယ်နော်။
 
-📥🛅Telegram Link
-https://t.me/XDA77Myanmar
-📲𝐕𝐢𝐛𝐞𝐫 Link
-https://jdb.link/xdaVB01
-☎️V𝐢𝐛𝐞𝐫 - 𝟎𝟗𝟕 𝟗𝟎𝟗𝟎 𝟑𝟎𝟕𝟕</b>
+📥အကောင့်ဖွင့်ရန်လင့်
+ https://cutt.ly/75gAJAT
+🛅Telegram Link
+https://cutt.ly/35gA5ZN
+☎️V𝐢𝐛𝐞𝐫  - 𝟎𝟗𝟕 𝟗𝟎𝟗𝟎 𝟑𝟎𝟕𝟕</b>
 
 <a href='https://t.me/YNVIPMEMBERBOT'>⚠️အင်္ဂလိပ်စီးရီးနှင့် 18+/21+(လူကြီးကား) မန်ဘာဝင်ရန် ဤနေရာကိုနှိပ်ပါ⚠️</a>"""
     if imdb and imdb.get('poster'):
